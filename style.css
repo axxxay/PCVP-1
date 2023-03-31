@@ -32,3 +32,21 @@
     width: 200px;
     text-align: center;
 }
+#experience_heading {
+    color: #161B40;
+}
+.experience_table_heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 10px;
+    margin-right: 25px;
+}
+.experience_table_data {
+    color: #161B40;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 10px;
+    width: 200px;
+    text-align: center;
+}
