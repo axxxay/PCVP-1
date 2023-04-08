@@ -1,5 +1,7 @@
 ## Available Scripts
 
+NOTE: WORK IS UNDER PROGRESS(NOT FINISHED YET)
+
 In the project directory, you can run:
 
 ### `npm start`
